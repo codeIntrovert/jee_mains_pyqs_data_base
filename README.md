@@ -1,5 +1,5 @@
 # Note
-This project is no longer maintained, the HDBscan library keeps bumping versions and makes it difficult for me to always keep a look at it.
+This project is no longer maintained but the [website](https://jee-data-base.streamlit.app/) is active and functional, the HDBscan library keeps bumping versions and makes it difficult for me to always keep a look at it.
 If you desperatly want to use this, check out [this](https://github.com/HostServer001/jee_pyqs/tree/main/jee_data_base) , its source code is 
 earlier version of the lib before the branch contradictions had occured and had to delete the history. Its more stabel cause its the backend of our [website](https://jee-data-base.streamlit.app/) . You would need to clone the repo and use it as a local module, if you want to install it take the setup.py and pypriject.toml form this repo put it in the root foler of that repo and do pip install .
 
